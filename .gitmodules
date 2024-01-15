@@ -1,0 +1,3 @@
+[submodule "hardware/kicad_project/custom_libraries"]
+	path = hardware/kicad_project/custom_libraries
+	url = https://github.com/OPRobots/KiCADLibraries
