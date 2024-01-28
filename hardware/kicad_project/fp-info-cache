@@ -1,4 +1,4 @@
-21594916061542168
+21601824238762589
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90097,6 +90097,13 @@ SMD SMT crystal
 2
 2
 custom_footprints
+DC-DC_3.3
+
+
+0
+4
+4
+custom_footprints
 ESP32_supermini
 
 
@@ -90114,6 +90121,13 @@ custom_footprints
 JST - XH - Thru (V) - 4Pin - 2.54mm
 JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH vertical boss
+0
+4
+4
+custom_footprints
+LED_5.0mm_RGB_Neopixel
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
 0
 4
 4
@@ -90167,12 +90181,26 @@ Switch6P
 6
 6
 custom_footprints
+TE_0-1734839-8_1x08-1MP_P0.5mm_Horizontal
+TE FPC connector, 08 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+10
+9
+custom_footprints
 USB-C ST-Link USART
 16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
 usb usb-c 2.0 pd
 0
 16
 13
+custom_footprints
+XT30
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
 custom_footprints
 motor_pads
 
