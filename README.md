@@ -4,6 +4,6 @@ Es la placa principal de control común a todos nuestros kits PX. Está pensada 
 
 ![PX-CORE](./images/px-core_01.png)
 
-[Más información y conjunta](http://oprobots.github.io/modulos/px-core/ "Más información y conjunta")
+[Más información y conjunta](http://oprobots.github.io/tienda/modulos/px-core/ "Más información y conjunta")
 
 *en construcción*
