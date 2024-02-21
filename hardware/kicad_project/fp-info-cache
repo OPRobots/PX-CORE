@@ -1,4 +1,4 @@
-21601824238762589
+21598416196081492
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90097,13 +90097,6 @@ SMD SMT crystal
 2
 2
 custom_footprints
-DC-DC_3.3
-
-
-0
-4
-4
-custom_footprints
 ESP32_supermini
 
 
@@ -90125,9 +90118,9 @@ connector JST XH vertical boss
 4
 4
 custom_footprints
-LED_5.0mm_RGB_Neopixel
+LED_D5.0mm-4_RGB_Staggered_Pins
 LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
-LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+rgb led
 0
 4
 4
@@ -90194,13 +90187,6 @@ usb usb-c 2.0 pd
 0
 16
 13
-custom_footprints
-XT30
-Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
-RC Connector XT30
-0
-2
-2
 custom_footprints
 motor_pads
 
